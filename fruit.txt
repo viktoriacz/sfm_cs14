@@ -3,3 +3,4 @@ körte
 szilva
 barack
 eper
+dió
